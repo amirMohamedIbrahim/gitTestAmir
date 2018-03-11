@@ -1,0 +1,2 @@
+# gitTestAmir
+Testing configuration
